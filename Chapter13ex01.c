@@ -1,5 +1,5 @@
 /********************************************************
- * ExOriginal -- Change to zeros. *
+ * Ex01 -- Change to zeros. *
  * Not an especially earth-shattering program. *
  * *
  * Author: Israel Prado. *
